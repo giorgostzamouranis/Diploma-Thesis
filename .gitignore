@@ -1,0 +1,13 @@
+# Local caches / generated bulk outputs
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+
+# Large benchmark/model data are external and intentionally not versioned
+data/
+datasets/
+weights/
+checkpoints/
+generated_images/
+kaggle_outputs/
