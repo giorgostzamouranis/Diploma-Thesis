@@ -1,0 +1,26 @@
+{
+  "benchmark": "GeoBench-2D",
+  "population": 5677,
+  "counts": {
+    "move": 1439,
+    "rotate": 1603,
+    "resize": 2635
+  },
+  "frozen_manifest_sha256": "17d971102daca232921d33de91adac58ef0ddbea9c9f814e219148486c9de802",
+  "freefine_commit": "4c9fdb971572b32edbeac13464659274c28decbb",
+  "development_subset": {
+    "name": "balanced-200",
+    "seed": 42,
+    "counts": {
+      "move": 67,
+      "rotate": 66,
+      "resize": 67
+    }
+  },
+  "final_resize_severity": {
+    "formula": "sqrt(sx*sy)",
+    "severe_if": "s >= 1.5 or s <= 0.6",
+    "severe_n": 759,
+    "nonsevere_n": 1876
+  }
+}

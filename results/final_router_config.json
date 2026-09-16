@@ -1,0 +1,26 @@
+{
+  "method": "SGR_EPSREC",
+  "base_model": "FreeFine on Stable Diffusion v1.5 (frozen, training-free)",
+  "freefine_source_commit": "4c9fdb971572b32edbeac13464659274c28decbb",
+  "geobench2d_manifest_sha256": "17d971102daca232921d33de91adac58ef0ddbea9c9f814e219148486c9de802",
+  "population": {
+    "all": 5677,
+    "move": 1439,
+    "rotate": 1603,
+    "resize": 2635,
+    "resize_severe": 759,
+    "resize_nonsevere": 1876
+  },
+  "resize_scale": "sqrt(sx * sy)",
+  "severe_rule": "scale >= 1.5 or scale <= 0.6",
+  "branches": {
+    "move": "original FreeFine refinement + RING4 post-preservation/interior lock",
+    "rotate": "original FreeFine (byte-identical fallback)",
+    "resize_nonsevere": "original FreeFine refinement + RING8 post-preservation/interior lock",
+    "resize_severe": "object prompt + CFG 10 + EPSREC guidance"
+  },
+  "notes": [
+    "Routing uses only the exact requested affine transform; it does not use benchmark difficulty labels.",
+    "SGR_MIDHF_EPSREC is retained as an ablation, not the recommended final method."
+  ]
+}

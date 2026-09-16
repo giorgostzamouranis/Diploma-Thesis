@@ -1,0 +1,73 @@
+account,filename,bytes,sha256,classification,repository_target
+A,01-full5677-generation-shard0of4-t4x2-v1 (1).ipynb,57745,5ad9cdcdc90e567468549402a3847ad429448bd716ee3ba6fdbec0c9922cd475,already_represented_in_repo,notebooks/06_final_full5677_generation/01-full5677-generation-shard0of4-t4x2-v1.ipynb
+A,01-w0a-complete-mid30-and-pure-structural-t4x2-v1.xpynb,0,,zero_byte_placeholder,
+A,01-w0a-resume-only-missing-dirhf-t4x2-v2 (1).ipynb,60991,972aff9aeeb1344ad49d33696b3bcb7d13f9bae843a2bfc31a3e3dab168a64d0,already_represented_in_repo,notebooks/02_structural_spectral_and_guidance_search/01-w0a-resume-only-missing-dirhf-t4x2-v2.ipynb
+A,09-combined-metric-resume-accounta-t4x2-v1.xpynb,0,,zero_byte_placeholder,
+A,09-combined-metric-resume-accounta-t4x2-v2-clipfix (1).ipynb,45261,c3f49bdd6e5bbd9d3c3e8da3c70288568afe4594eb23ef2246139cadee07d853,already_represented_in_repo,notebooks/07_final_full5677_metrics/09-combined-metric-resume-accounta-t4x2-v2-clipfix.ipynb
+A,benchmark-reproduction.xpynb,0,,zero_byte_placeholder,
+A,combined-model-geometric-edit (1).ipynb,57650,80fb2561ca6216a1c4fb2b8daa332470995c34a99aef7ef0bcac33979dd05cc9,already_represented_in_repo,notebooks/01_discovery_and_pathway_studies/combined-model-geometric-edit.ipynb
+A,fork-of-09-combined-metric-resume-accounta-t4x2-v2 (1).ipynb,55784,af82aec0eb7f5bd715dc0fbc80c314664a0b557a4e3a81546ed6a197c07b3201,already_represented_in_repo,notebooks/07_final_full5677_metrics/fork-of-09-combined-metric-resume-accounta-t4x2-v2.ipynb
+A,fork-of-freefine-phase2run-corrected.xpynb,0,,zero_byte_placeholder,
+A,freefine (2).ipynb,2034493,9e8024f84f41add26eafc396990e125d823565e2cbaea37c1edfb068beb01357,recovered_add_output_pruned_copy,archive/noncanonical/freefine-early-setup-demo-output-pruned.ipynb
+A,freefine-final-exhaustive-run-account-a-structu (1).ipynb,70462,9575e4b24dbed5c411c9081700f499e5541dc795322b8e50c436139c101334a7,already_represented_in_repo,notebooks/02_structural_spectral_and_guidance_search/freefine-final-exhaustive-run-account-a-structu.ipynb
+A,freefine-final-geometry-qualitative-comparison-no.ipynb,34787726,f8d3864da15528275bd834bce3ce8fe8ac055900a2309f33f1947fc8b0d8bf15,recovered_add_output_pruned_copy,notebooks/08_final_qualitative/freefine-final-geometry-qualitative-comparison-no-output-pruned.ipynb
+A,freefine-final-geometry-step0-geobench-audit-no-gp.xpynb,0,,zero_byte_placeholder,
+A,freefine-final-geometry-step1-deployable-router-pr (1).ipynb,38992,d4a014ade4a4a91269c3125558a0d78e5319963ec376fbd5f96c40022eb6d5e5,already_represented_in_repo,notebooks/05_final_router_selection/freefine-final-geometry-step1-deployable-router-pr(1).ipynb
+A,freefine-mask-sanity-check.xpynb,0,,zero_byte_placeholder,
+A,freefine-more.xpynb,0,,zero_byte_placeholder,
+A,freefine-phase2-gen.xpynb,0,,zero_byte_placeholder,
+A,freefine-phase2run-corrected.ipynb,49371,0858a24f7f9baa0aa9f89e97406cd5171aa70f28651bc7a002138dead83f8f8b,recovered_add_to_repo,notebooks/00_reproduction_diagnosis_and_june_ablation/freefine-phase2run-corrected.ipynb
+A,freefine-phase2run.ipynb,47244,fbba1336afc3930c75dbd934959b0a4caa338bb1b4fa770d598aceef7456826f,recovered_add_to_repo,archive/noncanonical/freefine-phase2run.ipynb
+A,ip-pathway-study (1).ipynb,58273,55148d07c99f85a4accea903530fac3fa01e0c7c4d73ba7b9bdd0e1266664988,already_represented_in_repo,notebooks/01_discovery_and_pathway_studies/ip-pathway-study.ipynb
+A,m-hff-feature-discovery.ipynb,71666,d351472d67bb7fc8abc91794e86014616ea26f25da6f38ca799de777497e2a13,recovered_add_to_repo,notebooks/01_discovery_and_pathway_studies/m-hff-feature-discovery.ipynb
+A,notebook231361e119.xpynb,0,,zero_byte_placeholder,
+A,notebook5eb20939b8.xpynb,0,,zero_byte_placeholder,
+A,notebook87ee81ca07.ipynb,2304,418663053c8ef6fef173388e73f0ab85b9b2250183ec0a56a9d5d5d4abb212bb,recovered_add_to_repo,archive/utilities/notebook87ee81ca07.ipynb
+A,notebookcd3e32524e.xpynb,0,,zero_byte_placeholder,
+A,phase-1-diagnostics.xpynb,0,,zero_byte_placeholder,
+A,phase1-per-group-fid-dino-kd-bgc-subc-we.ipynb,23529,3a42da01c2cce35e10a490c0691ab9bf6a1b432aea1239842098bf2510f0cda6,recovered_add_to_repo,notebooks/00_reproduction_diagnosis_and_june_ablation/phase1-per-group-fid-dino-kd-bgc-subc-we.ipynb
+A,real-hog-ip-pathway-study.xpynb,0,,zero_byte_placeholder,
+A,w2a-main-structural-shard1of2-t4x2-v2 (1).ipynb,42853,1c115b679ef5fa71949ba44581bfc4cc97ecdc52d23875e4605b9ed977608dad,already_represented_in_repo,notebooks/04_exhaustive_fid_metrics/w2a-main-structural-shard1of2-t4x2-v2.ipynb
+A,w2a-main-structural-shard2of2-t4x2-v2 (1).ipynb,42963,f426e37374bef69f08ccb19d39a24076521fbe52b27b1cf2fe7ee941cd16950b,already_represented_in_repo,notebooks/04_exhaustive_fid_metrics/w2a-main-structural-shard2of2-t4x2-v2.ipynb
+A,w2a-merge-no-gpu-v3.xpynb,0,,zero_byte_placeholder,
+A,w2c-difficulty-structural-shard2of3-t4x2-v2 (1).ipynb,54376,ef05c0f378f75b7ef8628586e221ec9cce3d438971da9695ae6395a573fd3f0f,already_represented_in_repo,notebooks/04_exhaustive_fid_metrics/w2c-difficulty-structural-shard2of3-t4x2-v2.ipynb
+A,w2c-merge-no-gpu-v3.xpynb,0,,zero_byte_placeholder,
+A,w2d-difficulty-guidancepost-shard4of4-t4x2-v2 (1).ipynb,63472,9ea9533eac824bf6ba5388a748512a075619b10349a47864c6920e6d8648b0da,already_represented_in_repo,notebooks/04_exhaustive_fid_metrics/w2d-difficulty-guidancepost-shard4of4-t4x2-v2.ipynb
+A,w2d-difficulty-guidancepost-shard4of4-t4x2-v2 (2).ipynb,63472,9ea9533eac824bf6ba5388a748512a075619b10349a47864c6920e6d8648b0da,duplicate_of_A:w2d-difficulty-guidancepost-shard4of4-t4x2-v2 (1).ipynb,notebooks/04_exhaustive_fid_metrics/w2d-difficulty-guidancepost-shard4of4-t4x2-v2.ipynb
+A,w2d-merge-no-gpu-v3.xpynb,0,,zero_byte_placeholder,
+B,01-full5677-generation-shard1of4-t4x2-v1.ipynb,57743,70efc23d853efbcc9b3086687d31bde49e78163c38ff6bf0d26b907afc06dfa3,already_represented_in_repo,notebooks/06_final_full5677_generation/01-full5677-generation-shard1of4-t4x2-v1.ipynb
+B,02-w0b-complete-pres03-and-guidance-gaps-t4x2-v1.ipynb,68330,8b0b1eb3c3e6fe90c4b1ae6fc60587543cde38380a7c4708f47e017a6fbefbb3,already_represented_in_repo,notebooks/02_structural_spectral_and_guidance_search/02-w0b-complete-pres03-and-guidance-gaps-t4x2-v1.ipynb
+B,05-full5677-metrics-freefine-baseline-t4x2-v1.xpynb,0,,zero_byte_placeholder,
+B,approach-1-ip-controlnet.ipynb,66910,5a157a001942501968a30f94c58472755ebccbf266d2a965cac28946ada08fbe,already_represented_in_repo,notebooks/01_discovery_and_pathway_studies/approach-1-ip-controlnet.ipynb
+B,combined-model-geometric-held-out-200.ipynb,60632,1594417280635d5d5fdf6a0cf5ae75e8e0166f500ff9fbad6e72184373dc99a1,already_represented_in_repo,notebooks/01_discovery_and_pathway_studies/combined-model-geometric-held-out-200.ipynb
+B,experiments-phase-b2.ipynb,62171,5d5a53bcdff84e7bf0574dd0c7be594b546495490049a5dfffb0e79943539864,recovered_add_to_repo,notebooks/00_reproduction_diagnosis_and_june_ablation/experiments-phase-b2.ipynb
+B,experiments-phase-b3.ipynb,73770,13e87fd7b9db1544fda9f34ec9b2d60be2340bbd901d9a486ea82f77fafc1afa,recovered_add_to_repo,notebooks/00_reproduction_diagnosis_and_june_ablation/experiments-phase-b3.ipynb
+B,experiments-phase-b4.ipynb,74587,05df52fd1df22919f4a9dfb5cf8e6ad4c7a73eb576b1989ca66bdc056599d6e4,recovered_add_to_repo,notebooks/00_reproduction_diagnosis_and_june_ablation/experiments-phase-b4.ipynb
+B,experiments-phase.ipynb,52684,8683ba8d40b61ff8a3f316e649dad7993b3f1651fc8882e1c34c94a83aac0952,recovered_add_to_repo,notebooks/00_reproduction_diagnosis_and_june_ablation/experiments-phase.ipynb
+B,freefine-account-b2-v3-apg-parameterization-m.ipynb,79953,c20df012c7b20f3a351e4434d0c1223dccef13707cabf83692358e05013c1bfb,recovered_add_to_repo,notebooks/01_discovery_and_pathway_studies/freefine-account-b2-v3-apg-parameterization-m.ipynb
+B,freefine-final-exhaustive-run-account-b-guidan.ipynb,86379,2b41581d865a1e1d56f943dd0d002134be78e940e0152bcd1abd17eee6084528,recovered_add_to_repo,notebooks/02_structural_spectral_and_guidance_search/freefine-final-exhaustive-run-account-b-guidan.ipynb
+B,freefine-phase2run.ipynb,47244,fbba1336afc3930c75dbd934959b0a4caa338bb1b4fa770d598aceef7456826f,duplicate_of_A:freefine-phase2run.ipynb,archive/noncanonical/freefine-phase2run.ipynb
+B,guidance-discovery.ipynb,64791,ccb5ae544c1e9c11b6c70450ddfcefdcfcac155adc678964d641430bdd31a92c,already_represented_in_repo,notebooks/01_discovery_and_pathway_studies/guidance-discovery.ipynb
+B,notebooka1e08a1c57.xpynb,0,,zero_byte_placeholder,
+B,phase0-md-fid-dino-fid-kd.ipynb,258663,489b930be998af879e994b33b48336e69eb29622a9b499f37102c2c4c468a5fa,recovered_add_to_repo,notebooks/00_reproduction_diagnosis_and_june_ablation/phase0-md-fid-dino-fid-kd.ipynb
+B,phase1-full-md-per-sample-dump.ipynb,115729,3a3ec2d9393595ec51042f90adf1e7747261ceae2044cefe45fa782ac393c105,recovered_add_to_repo,notebooks/00_reproduction_diagnosis_and_june_ablation/phase1-full-md-per-sample-dump.ipynb
+B,phase1-rerun-md.ipynb,115783,5c894497b86a6e866d73c0ec5087d1b978aacf15c306d91f78ff3f29b23af8c8,recovered_add_to_repo,notebooks/00_reproduction_diagnosis_and_june_ablation/phase1-rerun-md.ipynb
+B,w2b-main-guidancepost-shard1of2-t4x2-v2.ipynb,52746,b53a9696c5b2503106bda35ab779aa6d5f49c9835f7b0752df37e2cdf9325f6d,already_represented_in_repo,notebooks/04_exhaustive_fid_metrics/w2b-main-guidancepost-shard1of2-t4x2-v2.ipynb
+B,w2b-main-guidancepost-shard2of2-t4x2-v2.ipynb,52786,bde21c63a08289cbeb7214e6cf9b216fcd6906efa7b7b720d8f99fb5404206d7,already_represented_in_repo,notebooks/04_exhaustive_fid_metrics/w2b-main-guidancepost-shard2of2-t4x2-v2.ipynb
+B,w2b-merge-no-gpu-v3.xpynb,0,,zero_byte_placeholder,
+B,w2c-difficulty-structural-shard3of3-t4x2-v2.ipynb,54393,d6a28a8d4ddb816184db5919ee3cc949c58dc698f55a0992523376cded692aae,already_represented_in_repo,notebooks/04_exhaustive_fid_metrics/w2c-difficulty-structural-shard3of3-t4x2-v2.ipynb
+C,01-full5677-generation-shard2of4-t4x2-v1.ipynb,57739,3cbd31a70d51993c746a3b8f3920c081d6eabdb14f8c67346a63c54214fcc933,already_represented_in_repo,notebooks/06_final_full5677_generation/01-full5677-generation-shard2of4-t4x2-v1.ipynb
+C,06-full5677-metrics-sgr-epsrec-t4x2-v1.xpynb,0,,zero_byte_placeholder,
+C,w1b-core-resume-shard3of3.ipynb,64283,dd6ff0f407bf1eb3890b8322c9149cb450383a1d8ceb20f0211777d64f3e5618,already_represented_in_repo,notebooks/03_exhaustive_core_metrics/w1b-core-resume-shard3of3.ipynb
+C,w2c-difficulty-structural-shard1of3-t4x2-v2.ipynb,54018,209312d7b7499e174d13b1c631ceeabe5ea12d5fff937a4f799c2dd13b80be83,already_represented_in_repo,notebooks/04_exhaustive_fid_metrics/w2c-difficulty-structural-shard1of3-t4x2-v2.ipynb
+C,w2d-difficulty-guidancepost-shard2of4-t4x2-v2.ipynb,63173,2a1d8598ad8794da65dfe56368470e618a554b38830db9001e7666fd3a3aa177,already_represented_in_repo,notebooks/04_exhaustive_fid_metrics/w2d-difficulty-guidancepost-shard2of4-t4x2-v2.ipynb
+C,wave-1a-core-resume-v2.ipynb,65414,831a306a88d725dc664a59fb243c026ff1165ab85bdc7b192e3550c7b337385d,already_represented_in_repo,notebooks/03_exhaustive_core_metrics/wave-1a-core-resume-v2.ipynb
+C,wave-1a-structural.ipynb,69367,0e5b114ca6f75d7d9561e5339130d5635478ccdbe63d0ba6dea30d8a9abce686,already_represented_in_repo,notebooks/03_exhaustive_core_metrics/wave-1a-structural.ipynb
+C,wave-1b-three-shard-merge-v3.xpynb,0,,zero_byte_placeholder,
+D,01-full5677-generation-shard3of4-t4x2-v1.ipynb,57741,8114c167c407e0f0c1abae2a2eb3907225ee6acb0ac5b53382c9eca6cdc0b1ad,already_represented_in_repo,notebooks/06_final_full5677_generation/01-full5677-generation-shard3of4-t4x2-v1.ipynb
+D,07-full5677-metrics-sgr-midhf-epsrec-t4x2-v1.xpynb,0,,zero_byte_placeholder,
+D,w1b-core-resume-shard1of3.ipynb,64269,f8bff5f66285ef232fe33fcad173219c028c7ee50c66fab6330149e35786d842,already_represented_in_repo,notebooks/03_exhaustive_core_metrics/w1b-core-resume-shard1of3.ipynb
+D,w1b-core-resume-shard2of3.ipynb,64275,3748351cf891454361d6ae95be30090d2c8dd9220dbf348eebb424747bd5d341,already_represented_in_repo,notebooks/03_exhaustive_core_metrics/w1b-core-resume-shard2of3.ipynb
+D,w2d-difficulty-guidancepost-shard1of4-t4x2-v2.ipynb,63146,ccf2069e1bbf2865772c1a81752cc2e0f7bad8b251b4489a7f7472d55723b5f5,already_represented_in_repo,notebooks/04_exhaustive_fid_metrics/w2d-difficulty-guidancepost-shard1of4-t4x2-v2.ipynb
+D,w2d-difficulty-guidancepost-shard3of4-t4x2-v2.ipynb,63473,6a5e5175f9a6cb83aebce696459517bf36dfc38f46f31106e8fa0fa2961c5e3c,already_represented_in_repo,notebooks/04_exhaustive_fid_metrics/w2d-difficulty-guidancepost-shard3of4-t4x2-v2.ipynb
+D,wave-1b-guidance-combo-post.ipynb,75373,a87223126bd6f5d076ebbce8688d3ad4153534c39f1af00440b5b3f9ec836935,already_represented_in_repo,notebooks/03_exhaustive_core_metrics/wave-1b-guidance-combo-post.ipynb
