@@ -40,37 +40,195 @@ Run on T4×2. Attach: (1) the same original GeoBench inputs, and (2) the saved o
 02-w0b-complete-pres03-and-guidance-gaps-t4x2-v1.ipynb,complete,12,12,0,15869,8b0b1eb3c3e6fe90c4b1ae6fc60587543cde38380a7c4708f47e017a6fbefbb3,"FreeFine — 4-Account Final Pack — Wave 0B
  Complete PRES03 + pure guidance/combo ablations
 Run on T4×2. Attach the original GeoBench inputs and the saved output of Account B v3."
-05-full5677-metrics-freefine-baseline-t4x2-v1.ipynb,partial_metric_run_superseded_by_combined_resume,5,5,0,8115,d862b1f10480e6fbe70616a20dadeedd10027f2dd0536bd7fb8a72cdbd0c4a5d,"FreeFine Final Geometry — Full 5,677 Metrics: FREEFINE_BASELINE"
-06-full5677-metrics-sgr-epsrec-t4x2-v1.ipynb,partial_metric_run_superseded_by_combined_resume,5,5,0,8117,1ef1cc9be0ece1ad148727207051b9080518f5a7dc82d5f3b9ff46b1b9cdd33c,"FreeFine Final Geometry — Full 5,677 Metrics: SGR_EPSREC"
-07-full5677-metrics-sgr-midhf-epsrec-t4x2-v1.ipynb,partial_metric_run_superseded_by_combined_resume,5,5,0,8147,5166fd576afdd5206d349fdde4e709434eb974e97c59a6249a661008e53161df,"FreeFine Final Geometry — Full 5,677 Metrics: SGR_MIDHF_EPSREC"
-09-combined-metric-resume-accounta-t4x2-v2-clipfix.ipynb,partial_then_completed_by_final_fork,7,7,0,12497,c3f49bdd6e5bbd9d3c3e8da3c70288568afe4594eb23ef2246139cadee07d853,"FreeFine Final Geometry — Combined Metric Resume on Account A (T4×2)"
-FreeFine_Account_A_Final_Structural_Spectral_T4x2_v3(1).ipynb,source_only_not_executed,11,0,0,0,f98e3f8ee2e4b8e8e342752df7c10c02ce0dec9901a7e5fafd570133ed9d706f,"FreeFine Final Exhaustive Run — Account A (Structural / Spectral) — v2"
-approach-1-ip-controlnet.ipynb,complete,15,15,0,19567,bf4109a256be8b542cba861facfc0593057e23ed6789a600aa11c45c6374674b,"Cell 8 — IP-A"
-combined-model-geometric-edit.ipynb,complete,12,12,0,21013,80fb2561ca6216a1c4fb2b8daa332470995c34a99aef7ef0bcac33979dd05cc9,"Cell 1 — C1"
-combined-model-geometric-held-out-200.ipynb,complete,13,13,0,21155,1594417280635d5d5fdf6a0cf5ae75e8e0166f500ff9fbad6e72184373dc99a1,"Cell 1 — C1"
-fork-of-09-combined-metric-resume-accounta-t4x2-v2.ipynb,complete_final_metric_table,7,7,0,14341,af82aec0eb7f5bd715dc0fbc80c314664a0b557a4e3a81546ed6a197c07b3201,"FreeFine Final Geometry — Combined Metric Resume on Account A (T4×2)"
-freefine-final-exhaustive-run-account-a-structu.ipynb,complete,11,11,0,18955,9575e4b24dbed5c411c9081700f499e5541dc795322b8e50c436139c101334a7,"FreeFine Final Exhaustive Run — Account A (Structural / Spectral) — v2"
-freefine-final-geometry-step0-geobench-audit-no-gp (1).ipynb,complete_corrected_exact_affine_audit,4,4,0,4520,5c8d36b99c4947367258f3aa263b642500d25c9ab87d636a17f598c08951747b,"FreeFine Final Geometry — Step 0 v2: Exact GeoBench Affine Audit"
-freefine-final-geometry-step0-geobench-audit-no-gp.ipynb,failed_superseded_by_corrected_v2,4,3,1,2722,bfdc96edf51124c6a51d7cb2c67774403e52bb8fc2f71ed8ae6a0bcfd692ea3c,"FreeFine Final Geometry — Step 0: GeoBench-2D Audit & Router Freeze"
-freefine-final-geometry-step1-deployable-router-pr(1).ipynb,complete,7,7,0,13968,d4a014ade4a4a91269c3125558a0d78e5319963ec376fbd5f96c40022eb6d5e5,"FreeFine Final Geometry — Step 1: Deployable Router Preflight (balanced-200)"
-guidance-discovery.ipynb,complete,11,11,0,18114,ccb5ae544c1e9c11b6c70450ddfcefdcfcac155adc678964d641430bdd31a92c,"FreeFine Discovery Run — Account B (Guidance/Dynamics) — v2"
-ip-pathway-study.ipynb,complete,12,12,0,20124,9effd67bddebdf072c19210010f4ae189fe936e11ea5e4a8ca7f25df249844a9,"Cell 8 — IP-A"
-real-hog-ip-pathway-study.ipynb,source_only_not_executed,12,0,0,0,4c6a783b4728e948c7d56698bbc83d82e3dacaee583b5bcb5d9cb350d0b2caef,"Cell 8 — IP-A"
-w1b-core-resume-shard1of3.ipynb,complete,7,7,0,34080,f8bff5f66285ef232fe33fcad173219c028c7ee50c66fab6330149e35786d842,"FreeFine — Wave 1B Core Resume — Shard 1/3 — v3"
-w1b-core-resume-shard2of3.ipynb,complete,7,7,0,34085,3748351cf891454361d6ae95be30090d2c8dd9220dbf348eebb424747bd5d341,"FreeFine — Wave 1B Core Resume — Shard 2/3 — v3"
-w1b-core-resume-shard3of3.ipynb,complete,7,7,0,34096,dd6ff0f407bf1eb3890b8322c9149cb450383a1d8ceb20f0211777d64f3e5618,"FreeFine — Wave 1B Core Resume — Shard 3/3 — v3"
-w2a-main-structural-shard1of2-t4x2-v2.ipynb,complete,7,7,0,17169,1c115b679ef5fa71949ba44581bfc4cc97ecdc52d23875e4605b9ed977608dad,"FreeFine — Wave 2 A Main Structural — Shard 1/2 — v2"
-w2a-main-structural-shard2of2-t4x2-v2.ipynb,complete,7,7,0,17274,f426e37374bef69f08ccb19d39a24076521fbe52b27b1cf2fe7ee941cd16950b,"FreeFine — Wave 2 A Main Structural — Shard 2/2 — v2"
-w2b-main-guidancepost-shard1of2-t4x2-v2.ipynb,complete,7,7,0,22483,b53a9696c5b2503106bda35ab779aa6d5f49c9835f7b0752df37e2cdf9325f6d,"FreeFine — Wave 2 B Main Guidance/Post — Shard 1/2 — v2"
-w2b-main-guidancepost-shard2of2-t4x2-v2.ipynb,complete,7,7,0,22523,bde21c63a08289cbeb7214e6cf9b216fcd6906efa7b7b720d8f99fb5404206d7,"FreeFine — Wave 2 B Main Guidance/Post — Shard 2/2 — v2"
-w2c-difficulty-structural-shard1of3-t4x2-v2.ipynb,complete,7,7,0,27908,209312d7b7499e174d13b1c631ceeabe5ea12d5fff937a4f799c2dd13b80be83,"FreeFine — Wave 2 C Difficulty Structural — Shard 1/3 — v2"
-w2c-difficulty-structural-shard2of3-t4x2-v2.ipynb,complete,7,7,0,28255,ef05c0f378f75b7ef8628586e221ec9cce3d438971da9695ae6395a573fd3f0f,"FreeFine — Wave 2 C Difficulty Structural — Shard 2/3 — v2"
-w2c-difficulty-structural-shard3of3-t4x2-v2.ipynb,complete,7,7,0,28280,d6a28a8d4ddb816184db5919ee3cc949c58dc698f55a0992523376cded692aae,"FreeFine — Wave 2 C Difficulty Structural — Shard 3/3 — v2"
-w2d-difficulty-guidancepost-shard1of4-t4x2-v2.ipynb,complete,7,7,0,32470,ccf2069e1bbf2865772c1a81752cc2e0f7bad8b251b4489a7f7472d55723b5f5,"FreeFine — Wave 2 D Difficulty Guidance/Post — Shard 1/4 — v2"
-w2d-difficulty-guidancepost-shard2of4-t4x2-v2.ipynb,complete,7,7,0,32489,2a1d8598ad8794da65dfe56368470e618a554b38830db9001e7666fd3a3aa177,"FreeFine — Wave 2 D Difficulty Guidance/Post — Shard 2/4 — v2"
-w2d-difficulty-guidancepost-shard3of4-t4x2-v2.ipynb,complete,7,7,0,32780,6a5e5175f9a6cb83aebce696459517bf36dfc38f46f31106e8fa0fa2961c5e3c,"FreeFine — Wave 2 D Difficulty Guidance/Post — Shard 3/4 — v2"
-w2d-difficulty-guidancepost-shard4of4-t4x2-v2.ipynb,complete,7,7,0,32785,9ea9533eac824bf6ba5388a748512a075619b10349a47864c6920e6d8648b0da,"FreeFine — Wave 2 D Difficulty Guidance/Post — Shard 4/4 — v2"
-wave-1a-core-resume-v2.ipynb,complete,7,7,0,40764,831a306a88d725dc664a59fb243c026ff1165ab85bdc7b192e3550c7b337385d,"FreeFine — Wave 1A Core Resume v2"
-wave-1a-structural.ipynb,partial_then_completed_by_resume,7,7,0,46106,0e5b114ca6f75d7d9561e5339130d5635478ccdbe63d0ba6dea30d8a9abce686,"FreeFine — Wave 1A — Exhaustive Core Metrics — Structural Family"
-wave-1b-guidance-combo-post(1).ipynb,duplicate_of_wave-1b-guidance-combo-post.ipynb,7,7,0,47913,a87223126bd6f5d076ebbce8688d3ad4153534c39f1af00440b5b3f9ec836935,"FreeFine — Wave 1B — Exhaustive Core Metrics — Guidance/Combo/Post Family"
-wave-1b-guidance-combo-post.ipynb,partial_then_completed_by_sharded_resume,7,7,0,47913,a87223126bd6f5d076ebbce8688d3ad4153534c39f1af00440b5b3f9ec836935,"FreeFine — Wave 1B — Exhaustive Core Metrics — Guidance/Combo/Post Family"
+05-full5677-metrics-freefine-baseline-t4x2-v1.ipynb,partial_metric_run_superseded_by_combined_resume,5,5,0,8115,d862b1f10480e6fbe70616a20dadeedd10027f2dd0536bd7fb8a72cdbd0c4a5d,"FreeFine Final Geometry — Full 5,677 Metrics: FREEFINE_BASELINE
+
+Attach:
+1. the **four completed generation-shard notebook outputs**,
+2. `freefine-sample-metadata`,
+3. `geobench2d-coarse-img`,
+4. `geobench2d-metrics-subset`."
+06-full5677-metrics-sgr-epsrec-t4x2-v1.ipynb,partial_metric_run_superseded_by_combined_resume,5,5,0,8117,1ef1cc9be0ece1ad148727207051b9080518f5a7dc82d5f3b9ff46b1b9cdd33c,"FreeFine Final Geometry — Full 5,677 Metrics: SGR_EPSREC
+
+Attach:
+1. the **four completed generation-shard notebook outputs**,
+2. `freefine-sample-metadata`,
+3. `geobench2d-coarse-img`,
+4. `geobench2d-metrics-subset`."
+07-full5677-metrics-sgr-midhf-epsrec-t4x2-v1.ipynb,partial_metric_run_superseded_by_combined_resume,5,5,0,8147,5166fd576afdd5206d349fdde4e709434eb974e97c59a6249a661008e53161df,"FreeFine Final Geometry — Full 5,677 Metrics: SGR_MIDHF_EPSREC
+
+Attach:
+1. the **four completed generation-shard notebook outputs**,
+2. `freefine-sample-metadata`,
+3. `geobench2d-coarse-img`,
+4. `geobench2d-metrics-subset`."
+09-combined-metric-resume-accounta-t4x2-v2-clipfix.ipynb,partial_then_completed_by_final_fork,7,7,0,12497,c3f49bdd6e5bbd9d3c3e8da3c70288568afe4594eb23ef2246139cadee07d853,"FreeFine Final Geometry — Combined Metric Resume on Account A (T4×2)
+
+Use this **instead of rerunning the three separate metric notebooks**.
+
+**v2 fix:** serially preloads the official OpenAI CLIP ViT-B/32 checkpoint before the two GPU workers start, and applies a targeted PyTorch 2.6 compatibility fix to OpenAI CLIP's trusted checkpoint fallback loader. This avoids the concurrent first-download/cache race observed in v1.
+
+It resumes the three existing partial evaluations and computes only the unique missing work."
+FreeFine_Account_A_Final_Structural_Spectral_T4x2_v3(1).ipynb,source_only_not_executed,11,0,0,0,f98e3f8ee2e4b8e8e342752df7c10c02ce0dec9901a7e5fafd570133ed9d706f,"FreeFine Final Exhaustive Run — Account A (Structural / Spectral) — v2
+
+**Goal:** finish the structural side of the 2D geometric-editing search. Every generated model is run on the **same historical balanced-200** (67 move / 66 rotate / 67 resize), then scored task-by-task.
+
+This notebook intentionally includes conservative and high-risk arms:
+- R1 reference
+- HF30 and FULL30
+- MID and MID+HF bands"
+approach-1-ip-controlnet.ipynb,complete,15,15,0,19567,bf4109a256be8b542cba861facfc0593057e23ed6789a600aa11c45c6374674b,"Cell 8 — IP-A (%%writefile on line 1, then the full module — this is ip_ff.py with the geometry builders):"
+combined-model-geometric-edit.ipynb,complete,12,12,0,21013,80fb2561ca6216a1c4fb2b8daa332470995c34a99aef7ef0bcac33979dd05cc9,Cell 1 — C1
+combined-model-geometric-held-out-200.ipynb,complete,13,13,0,21155,1594417280635d5d5fdf6a0cf5ae75e8e0166f500ff9fbad6e72184373dc99a1,Cell 1 — C1
+fork-of-09-combined-metric-resume-accounta-t4x2-v2.ipynb,complete_final_metric_table,7,7,0,14341,af82aec0eb7f5bd715dc0fbc80c314664a0b557a4e3a81546ed6a197c07b3201,"FreeFine Final Geometry — Combined Metric Resume on Account A (T4×2)
+
+Use this **instead of rerunning the three separate metric notebooks**.
+
+**v2 fix:** serially preloads the official OpenAI CLIP ViT-B/32 checkpoint before the two GPU workers start, and applies a targeted PyTorch 2.6 compatibility fix to OpenAI CLIP's trusted checkpoint fallback loader. This avoids the concurrent first-download/cache race observed in v1.
+
+It resumes the three existing partial evaluations and computes only the unique missing work."
+freefine-final-exhaustive-run-account-a-structu.ipynb,complete,11,11,0,18955,9575e4b24dbed5c411c9081700f499e5541dc795322b8e50c436139c101334a7,"FreeFine Final Exhaustive Run — Account A (Structural / Spectral) — v2
+
+**Goal:** finish the structural side of the 2D geometric-editing search. Every generated model is run on the **same historical balanced-200** (67 move / 66 rotate / 67 resize), then scored task-by-task.
+
+This notebook intentionally includes conservative and high-risk arms:
+- R1 reference
+- HF30 and FULL30
+- MID and MID+HF bands"
+freefine-final-geometry-step0-geobench-audit-no-gp (1).ipynb,complete_corrected_exact_affine_audit,4,4,0,4520,5c8d36b99c4947367258f3aa263b642500d25c9ab87d636a17f598c08951747b,"FreeFine Final Geometry — Step 0 v2: Exact GeoBench Affine Audit
+
+**Correction to v1.** The `sample_metadata.csv::scale_change` field belongs to the thesis diagnostic metadata and is **not** the raw resize factor used by FreeFine. Likewise, its `difficulty` field is the thesis diagnostic stratification, not the paper's original easy/medium/hard instruction label. Therefore v1 correctly stopped with `AUDIT STATUS: FAIL`, and its router config must not be used.
+
+This v2 reads the **exact `edit_param` used by the official FreeFine inference pipeline**. In the official code the tuple is unpacked as
+`dx, dy, dz, rx, ry, rz, sx, sy, sz = edit_param`, with `(sx, sy)` used directly as the resize scale.
+
+No model inference. No GPU. No metric tuning."
+freefine-final-geometry-step0-geobench-audit-no-gp.ipynb,failed_superseded_by_corrected_v2,4,3,1,2722,bfdc96edf51124c6a51d7cb2c67774403e52bb8fc2f71ed8ae6a0bcfd692ea3c,"FreeFine Final Geometry — Step 0: GeoBench-2D Audit & Router Freeze
+
+**Purpose:** before the full 5,677-sample end-to-end final runs, verify the exact GeoBench-2D population and derive/validate a deployable resize-severity rule from the requested geometric transform (not from oracle benchmark labels).
+
+This notebook performs **no model inference and needs no GPU**. It does not tune on generated-image metrics.
+
+Expected GeoBench-2D population used in the thesis reproduction: **5,677 edits = 1,439 move + 1,603 rotate + 2,635 resize**."
+freefine-final-geometry-step1-deployable-router-pr(1).ipynb,complete,7,7,0,13968,d4a014ade4a4a91269c3125558a0d78e5319963ec376fbd5f96c40022eb6d5e5,"FreeFine Final Geometry — Step 1: Deployable Router Preflight (balanced-200)
+
+This is a **cheap preflight only**, not the final benchmark evaluation. It uses the already-generated balanced-200 outputs to verify that the newly frozen **exact-affine** resize rule behaves sensibly before spending GPU quota on the full 5,677 end-to-end run.
+
+Important methodological point: the earlier `resize_hard` gains were measured on the thesis diagnostic tertile. Step 0 v2 showed that this diagnostic label is not identical to the deployable affine severity rule. Therefore we must evaluate the **actual final routing rule once** before the expensive full run.
+
+No image generation is performed here. The notebook reconstructs the two proposed pipelines from already-generated outputs and runs the official 7 metrics on the standard balanced-200 development set."
+guidance-discovery.ipynb,complete,11,11,0,18114,ccb5ae544c1e9c11b6c70450ddfcefdcfcac155adc678964d641430bdd31a92c,"FreeFine Discovery Run — Account B (Guidance/Dynamics) — v2
+
+**Robust patch revision:** CFG/APG/FDG insertion now matches the semantic `forward_sampling` CFG block independently of upstream indentation."
+ip-pathway-study.ipynb,complete,12,12,0,20124,9effd67bddebdf072c19210010f4ae189fe936e11ea5e4a8ca7f25df249844a9,"Cell 8 — IP-A (%%writefile on line 1, then the full module — this is ip_ff.py with the geometry builders):"
+real-hog-ip-pathway-study.ipynb,source_only_not_executed,12,0,0,0,4c6a783b4728e948c7d56698bbc83d82e3dacaee583b5bcb5d9cb350d0b2caef,"Cell 8 — IP-A (%%writefile on line 1, then the full module — this is ip_ff.py with the geometry builders):"
+w1b-core-resume-shard1of3.ipynb,complete,7,7,0,34080,f8bff5f66285ef232fe33fcad173219c028c7ee50c66fab6330149e35786d842,"FreeFine — Wave 1B Core Resume — Shard 1/3 — v3
+ Balanced continuation of the 336 missing guidance/combo/post core-metric cells
+
+Attach:
+1. the same original GeoBench inputs,
+2. original Account-B-v3 output,
+3. final Wave-0B output,
+4. the saved output of the ORIGINAL partial Wave-1B run (`B_core_results.json`, `MISSING CORE 336`)."
+w1b-core-resume-shard2of3.ipynb,complete,7,7,0,34085,3748351cf891454361d6ae95be30090d2c8dd9220dbf348eebb424747bd5d341,"FreeFine — Wave 1B Core Resume — Shard 2/3 — v3
+ Balanced continuation of the 336 missing guidance/combo/post core-metric cells
+
+Attach:
+1. the same original GeoBench inputs,
+2. original Account-B-v3 output,
+3. final Wave-0B output,
+4. the saved output of the ORIGINAL partial Wave-1B run (`B_core_results.json`, `MISSING CORE 336`)."
+w1b-core-resume-shard3of3.ipynb,complete,7,7,0,34096,dd6ff0f407bf1eb3890b8322c9149cb450383a1d8ceb20f0211777d64f3e5618,"FreeFine — Wave 1B Core Resume — Shard 3/3 — v3
+ Balanced continuation of the 336 missing guidance/combo/post core-metric cells
+
+Attach:
+1. the same original GeoBench inputs,
+2. original Account-B-v3 output,
+3. final Wave-0B output,
+4. the saved output of the ORIGINAL partial Wave-1B run (`B_core_results.json`, `MISSING CORE 336`)."
+w2a-main-structural-shard1of2-t4x2-v2.ipynb,complete,7,7,0,17169,1c115b679ef5fa71949ba44581bfc4cc97ecdc52d23875e4605b9ed977608dad,"FreeFine — Wave 2 A Main Structural — Shard 1/2 — v2
+ Resumable FID / FDD(DINO) / KD evaluation
+
+This shard evaluates a deterministic sample-count-balanced partition.
+If it ever hits the Kaggle session deadline, Save Version, attach its own saved output, and rerun this SAME notebook.
+
+Use T4×2."
+w2a-main-structural-shard2of2-t4x2-v2.ipynb,complete,7,7,0,17274,f426e37374bef69f08ccb19d39a24076521fbe52b27b1cf2fe7ee941cd16950b,"FreeFine — Wave 2 A Main Structural — Shard 2/2 — v2
+ Resumable FID / FDD(DINO) / KD evaluation
+
+This shard evaluates a deterministic sample-count-balanced partition.
+If it ever hits the Kaggle session deadline, Save Version, attach its own saved output, and rerun this SAME notebook.
+
+Use T4×2."
+w2b-main-guidancepost-shard1of2-t4x2-v2.ipynb,complete,7,7,0,22483,b53a9696c5b2503106bda35ab779aa6d5f49c9835f7b0752df37e2cdf9325f6d,"FreeFine — Wave 2 B Main Guidance/Post — Shard 1/2 — v2
+ Resumable FID / FDD(DINO) / KD evaluation
+
+This shard evaluates a deterministic sample-count-balanced partition.
+If it ever hits the Kaggle session deadline, Save Version, attach its own saved output, and rerun this SAME notebook.
+
+Use T4×2."
+w2b-main-guidancepost-shard2of2-t4x2-v2.ipynb,complete,7,7,0,22523,bde21c63a08289cbeb7214e6cf9b216fcd6906efa7b7b720d8f99fb5404206d7,"FreeFine — Wave 2 B Main Guidance/Post — Shard 2/2 — v2
+ Resumable FID / FDD(DINO) / KD evaluation
+
+This shard evaluates a deterministic sample-count-balanced partition.
+If it ever hits the Kaggle session deadline, Save Version, attach its own saved output, and rerun this SAME notebook.
+
+Use T4×2."
+w2c-difficulty-structural-shard1of3-t4x2-v2.ipynb,complete,7,7,0,27908,209312d7b7499e174d13b1c631ceeabe5ea12d5fff937a4f799c2dd13b80be83,"FreeFine — Wave 2 C Difficulty Structural — Shard 1/3 — v2
+ Resumable FID / FDD(DINO) / KD evaluation
+
+This shard evaluates a deterministic sample-count-balanced partition.
+If it ever hits the Kaggle session deadline, Save Version, attach its own saved output, and rerun this SAME notebook.
+
+Use T4×2."
+w2c-difficulty-structural-shard2of3-t4x2-v2.ipynb,complete,7,7,0,28255,ef05c0f378f75b7ef8628586e221ec9cce3d438971da9695ae6395a573fd3f0f,"FreeFine — Wave 2 C Difficulty Structural — Shard 2/3 — v2
+ Resumable FID / FDD(DINO) / KD evaluation
+
+This shard evaluates a deterministic sample-count-balanced partition.
+If it ever hits the Kaggle session deadline, Save Version, attach its own saved output, and rerun this SAME notebook.
+
+Use T4×2."
+w2c-difficulty-structural-shard3of3-t4x2-v2.ipynb,complete,7,7,0,28280,d6a28a8d4ddb816184db5919ee3cc949c58dc698f55a0992523376cded692aae,"FreeFine — Wave 2 C Difficulty Structural — Shard 3/3 — v2
+ Resumable FID / FDD(DINO) / KD evaluation
+
+This shard evaluates a deterministic sample-count-balanced partition.
+If it ever hits the Kaggle session deadline, Save Version, attach its own saved output, and rerun this SAME notebook.
+
+Use T4×2."
+w2d-difficulty-guidancepost-shard1of4-t4x2-v2.ipynb,complete,7,7,0,32470,ccf2069e1bbf2865772c1a81752cc2e0f7bad8b251b4489a7f7472d55723b5f5,"FreeFine — Wave 2 D Difficulty Guidance/Post — Shard 1/4 — v2
+ Resumable FID / FDD(DINO) / KD evaluation
+
+This shard evaluates a deterministic sample-count-balanced partition.
+If it ever hits the Kaggle session deadline, Save Version, attach its own saved output, and rerun this SAME notebook.
+
+Use T4×2."
+w2d-difficulty-guidancepost-shard2of4-t4x2-v2.ipynb,complete,7,7,0,32489,2a1d8598ad8794da65dfe56368470e618a554b38830db9001e7666fd3a3aa177,"FreeFine — Wave 2 D Difficulty Guidance/Post — Shard 2/4 — v2
+ Resumable FID / FDD(DINO) / KD evaluation
+
+This shard evaluates a deterministic sample-count-balanced partition.
+If it ever hits the Kaggle session deadline, Save Version, attach its own saved output, and rerun this SAME notebook.
+
+Use T4×2."
+w2d-difficulty-guidancepost-shard3of4-t4x2-v2.ipynb,complete,7,7,0,32780,6a5e5175f9a6cb83aebce696459517bf36dfc38f46f31106e8fa0fa2961c5e3c,"FreeFine — Wave 2 D Difficulty Guidance/Post — Shard 3/4 — v2
+ Resumable FID / FDD(DINO) / KD evaluation
+
+This shard evaluates a deterministic sample-count-balanced partition.
+If it ever hits the Kaggle session deadline, Save Version, attach its own saved output, and rerun this SAME notebook.
+
+Use T4×2."
+w2d-difficulty-guidancepost-shard4of4-t4x2-v2.ipynb,complete,7,7,0,32785,9ea9533eac824bf6ba5388a748512a075619b10349a47864c6920e6d8648b0da,"FreeFine — Wave 2 D Difficulty Guidance/Post — Shard 4/4 — v2
+ Resumable FID / FDD(DINO) / KD evaluation
+
+This shard evaluates a deterministic sample-count-balanced partition.
+If it ever hits the Kaggle session deadline, Save Version, attach its own saved output, and rerun this SAME notebook.
+
+Use T4×2."
+wave-1a-core-resume-v2.ipynb,complete,7,7,0,40764,831a306a88d725dc664a59fb243c026ff1165ab85bdc7b192e3550c7b337385d,"FreeFine — Wave 1A Core Resume v2
+ Continue ONLY the 142 structural core-metric cells left by the first Wave-1A run
+Attach: original GeoBench inputs, original Account-A-v3 output, final Wave-0A resume output, and the saved output of the partial Wave-1A run containing `A_core_results.json`.
+Run on T4×2."
+wave-1a-structural.ipynb,partial_then_completed_by_resume,7,7,0,46106,0e5b114ca6f75d7d9561e5339130d5635478ccdbe63d0ba6dea30d8a9abce686,"FreeFine — Wave 1A — Exhaustive Core Metrics — Structural Family
+BGC, SUBC, WRAP_E, MD for every structural model across 20 task/difficulty groups."
+wave-1b-guidance-combo-post(1).ipynb,duplicate_of_wave-1b-guidance-combo-post.ipynb,7,7,0,47913,a87223126bd6f5d076ebbce8688d3ad4153534c39f1af00440b5b3f9ec836935,"FreeFine — Wave 1B — Exhaustive Core Metrics — Guidance/Combo/Post Family
+BGC, SUBC, WRAP_E, MD across 20 task/difficulty groups."
+wave-1b-guidance-combo-post.ipynb,partial_then_completed_by_sharded_resume,7,7,0,47913,a87223126bd6f5d076ebbce8688d3ad4153534c39f1af00440b5b3f9ec836935,"FreeFine — Wave 1B — Exhaustive Core Metrics — Guidance/Combo/Post Family
+BGC, SUBC, WRAP_E, MD across 20 task/difficulty groups."
