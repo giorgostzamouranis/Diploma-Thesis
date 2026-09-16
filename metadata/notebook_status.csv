@@ -77,7 +77,7 @@ This notebook intentionally includes conservative and high-risk arms:
 - HF30 and FULL30
 - MID and MID+HF bands"
 approach-1-ip-controlnet.ipynb,complete,15,15,0,19567,bf4109a256be8b542cba861facfc0593057e23ed6789a600aa11c45c6374674b,"Cell 8 — IP-A (%%writefile on line 1, then the full module — this is ip_ff.py with the geometry builders):"
-benchmark-reproduction.ipynb,complete_phase0_generation_with_partial_inline_metrics,68,61,4,390859,75625edd7a04120fe14c2a18a1cd1fa72a6a5db8d6f62859d2015604e109d4ab,"Phase 0 faithful full-set FreeFine reproduction. Generated all 5,677 GeoBench-2D edits and retained the original execution record; remaining FID_DINO/FID_KD/MD work is completed by the companion Phase-0 metric notebook."
+benchmark-reproduction.ipynb,complete_phase0_generation_with_partial_inline_metrics,68,61,4,390859,58763211ce2f1cc1011bc5dc6b4724c56d0ddc12a3d661c76d4b2cd050c59692,"Phase 0 faithful full-set FreeFine reproduction. Generated all 5,677 GeoBench-2D edits and retained the original execution record; remaining FID_DINO/FID_KD/MD work is completed by the companion Phase-0 metric notebook. Public archival copy: one expired Hugging Face token was redacted from a saved notebook output; experimental code/results are otherwise preserved."
 combined-model-geometric-edit.ipynb,complete,12,12,0,21013,80fb2561ca6216a1c4fb2b8daa332470995c34a99aef7ef0bcac33979dd05cc9,Cell 1 — C1
 combined-model-geometric-held-out-200.ipynb,complete,13,13,0,21155,1594417280635d5d5fdf6a0cf5ae75e8e0166f500ff9fbad6e72184373dc99a1,Cell 1 — C1
 experiments-phase-b2.ipynb,complete,13,13,0,18930,5d5a53bcdff84e7bf0574dd0c7be594b546495490049a5dfffb0e79943539864,"B2 IP-Adapter identity-conditioning sweep on balanced-200: ip50, ip80, ip110 and ip140."

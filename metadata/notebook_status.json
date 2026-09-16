@@ -136,8 +136,8 @@
     "executed_code_cells": 61,
     "error_outputs": 4,
     "output_chars": 390859,
-    "sha256": "75625edd7a04120fe14c2a18a1cd1fa72a6a5db8d6f62859d2015604e109d4ab",
-    "description": "Phase 0 faithful full-set FreeFine reproduction. Generated all 5,677 GeoBench-2D edits and retained the original execution record; remaining FID_DINO/FID_KD/MD work is completed by the companion Phase-0 metric notebook."
+    "sha256": "58763211ce2f1cc1011bc5dc6b4724c56d0ddc12a3d661c76d4b2cd050c59692",
+    "description": "Phase 0 faithful full-set FreeFine reproduction. Generated all 5,677 GeoBench-2D edits and retained the original execution record; remaining FID_DINO/FID_KD/MD work is completed by the companion Phase-0 metric notebook. Public archival copy: one expired Hugging Face token was redacted from a saved notebook output; experimental code/results are otherwise preserved."
   },
   {
     "file": "combined-model-geometric-edit.ipynb",
