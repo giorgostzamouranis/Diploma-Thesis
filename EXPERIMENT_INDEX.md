@@ -81,6 +81,23 @@ The first three metric notebooks produced the main/global and some subgroup meas
 
 `freefine-final-geometry-qualitative-comparison-no-output-pruned.ipynb` is a repository-sized archival copy of the executed no-GPU qualitative comparison notebook. Code, execution metadata, and textual outputs are retained; embedded image display payloads were removed. The SHA256 of the original 34.8 MB executed Kaggle notebook is recorded inside the notebook and in the account-recovery audit.
 
+## 09 — Post-hoc validation runs
+
+Two studies were run after the final evaluation, while the thesis was being written. Their outputs are in `results/post_hoc/`.
+
+- `geometry-attention-corrected-sharda.ipynb` + `geometry-attention-corrected-shardb.ipynb` — corrected re-run of the B3
+  geometry-aware attention study on balanced-200. Shard A: per-branch head-layout control `c0`, correspondence bias G2
+  (`c0_g2_l4`, `c0_g2_l8`). Shard B: warped K/V G1 (`c0_g1`), G1 + validity gating G3 (`c0_g1_g3`), pixel-warped reference R²
+  (`c0_r2`). Results: `gafix_results_A.{json,csv}`, `gafix_results_B.{json,csv}`. Every corrected mechanism still lowers
+  hard-group SUBC relative to `c0`. This corrected study is the one reported in the thesis (Experiment 11).
+- `percase_metrics_full5677.ipynb` — re-scores the final full-5,677 images (nothing is regenerated) with the official metric code,
+  patched only to record the per-image SUBC, BGC and WRAP_E of FreeFine and SGR-EPSREC, and of SGR-MIDHF-EPSREC on the 759 severe
+  resizes. Built-in checks: per-image means equal the official group values; group means reproduce
+  `results/final_full5677_metrics.csv` to four decimals; rotations are byte-identical. Outputs: `percase_metrics_full5677.csv`
+  (one row per edit), `paired_stats.csv` (bootstrap 95% intervals, Wilcoxon signed-rank tests and win/tie/loss counts per group)
+  and `percase_validation_report.json`. The repository copy is the source as submitted to Kaggle; its executed outputs are the
+  three result files.
+
 ## Four-account recovery audit
 
 Accounts A, B, C, and D were audited together. The raw ZIP exports contained 72 entries: 50 non-empty `.ipynb` files and 22 zero-byte `.xpynb` placeholders. Two non-empty entries were exact duplicates, leaving 48 unique notebooks in the four ZIPs. The separately recovered Phase-0 `benchmark-reproduction.ipynb` adds one additional unique historical artifact.
