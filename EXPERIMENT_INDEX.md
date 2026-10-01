@@ -95,8 +95,7 @@ Two studies were run after the final evaluation, while the thesis was being writ
   resizes. Built-in checks: per-image means equal the official group values; group means reproduce
   `results/final_full5677_metrics.csv` to four decimals; rotations are byte-identical. Outputs: `percase_metrics_full5677.csv`
   (one row per edit), `paired_stats.csv` (bootstrap 95% intervals, Wilcoxon signed-rank tests and win/tie/loss counts per group)
-  and `percase_validation_report.json`. The repository copy is the source as submitted to Kaggle; its executed outputs are the
-  three result files.
+  and `percase_validation_report.json`. The repository copy is the executed notebook with its outputs; all four checks pass.
 
 ## Four-account recovery audit
 
