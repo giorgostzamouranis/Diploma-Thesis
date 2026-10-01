@@ -601,12 +601,12 @@
   },
   {
     "file": "percase_metrics_full5677.ipynb",
-    "status": "source_copy_outputs_preserved_in_results",
+    "status": "complete",
     "code_cells": 10,
-    "executed_code_cells": 0,
+    "executed_code_cells": 10,
     "error_outputs": 0,
-    "output_chars": 0,
-    "sha256": "f9936e1895c55509a980cfd44f9dbd6bbbd3fa9c89e13801c8f0cecb6804f991",
-    "description": "Post-hoc per-image SUBC/BGC/WRAP_E on the final full-5,677 images (no regeneration) with the official metric code, patched only to record the value of each image; paired statistics SGR-EPSREC vs FreeFine (bootstrap 95% CI, Wilcoxon, win/tie/loss). Executed on Kaggle; the repository copy is the source as submitted, and the executed outputs are results/post_hoc/percase_metrics_full5677.csv, paired_stats.csv and percase_validation_report.json."
+    "output_chars": 13972,
+    "sha256": "c308f8e8ea46d5d88693ea450651e91a896d9bda3d4d17d96468fb433c269b6d",
+    "description": "Post-hoc per-image SUBC/BGC/WRAP_E on the final full-5,677 images (no regeneration) with the official metric code, patched only to record the value of each image; paired statistics SGR-EPSREC vs FreeFine (bootstrap 95% CI, Wilcoxon, win/tie/loss). Executed copy with outputs; all four built-in checks pass. Outputs: results/post_hoc/percase_metrics_full5677.csv, paired_stats.csv and percase_validation_report.json."
   }
 ]
