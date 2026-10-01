@@ -58,7 +58,9 @@ Thus, on the complete 5,677-edit population, SGR-EPSREC numerically improves the
 - `notebooks/06_final_full5677_generation/` — fresh final four-shard generation
 - `notebooks/07_final_full5677_metrics/` — final complete metric chain
 - `notebooks/08_final_qualitative/` — final qualitative comparison code (image payloads pruned from the repository copy)
+- `notebooks/09_post_hoc_validation/` — post-hoc runs made while writing the thesis: the corrected geometry-aware attention study and per-image metrics with paired statistics on the final full set
 - `results/` — structured result JSON/CSV files and final tables
+- `results/post_hoc/` — outputs of the post-hoc runs in `notebooks/09_post_hoc_validation/`
 - `metadata/` — source pins, execution status, hashes, and the four-account recovery audit
 - `docs/` — thesis progress reports, metrics appendix, and presentation
 - `archive/noncanonical/` — superseded, exploratory, or duplicate historical artifacts

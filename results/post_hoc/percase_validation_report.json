@@ -1,0 +1,177 @@
+{
+  "check3_internal_abs_diff": {
+    "FREEFINE_BASELINE/all_5677/SUBC": 0.0,
+    "FREEFINE_BASELINE/all_5677/BGC": 0.0,
+    "FREEFINE_BASELINE/all_5677/WRAP_E": 1.1102230246251565e-16,
+    "SGR_EPSREC/all_5677/SUBC": 0.0,
+    "SGR_EPSREC/all_5677/BGC": 0.0,
+    "SGR_EPSREC/all_5677/WRAP_E": 6.938893903907228e-17,
+    "SGR_MIDHF_EPSREC/resize_severe_759/SUBC": 0.0,
+    "SGR_MIDHF_EPSREC/resize_severe_759/BGC": 0.0,
+    "SGR_MIDHF_EPSREC/resize_severe_759/WRAP_E": 1.0408340855860843e-16
+  },
+  "check4_published_table": {
+    "FREEFINE_BASELINE/all_5677/SUBC": [
+      0.9113,
+      0.9113
+    ],
+    "FREEFINE_BASELINE/all_5677/BGC": [
+      0.967,
+      0.967
+    ],
+    "FREEFINE_BASELINE/all_5677/WRAP_E": [
+      0.0474,
+      0.0474
+    ],
+    "FREEFINE_BASELINE/move_1439/SUBC": [
+      0.9592,
+      0.9592
+    ],
+    "FREEFINE_BASELINE/move_1439/BGC": [
+      0.967,
+      0.967
+    ],
+    "FREEFINE_BASELINE/move_1439/WRAP_E": [
+      0.0489,
+      0.0489
+    ],
+    "FREEFINE_BASELINE/rotate_1603/SUBC": [
+      0.9008,
+      0.9008
+    ],
+    "FREEFINE_BASELINE/rotate_1603/BGC": [
+      0.9673,
+      0.9673
+    ],
+    "FREEFINE_BASELINE/rotate_1603/WRAP_E": [
+      0.0433,
+      0.0433
+    ],
+    "FREEFINE_BASELINE/resize_2635/SUBC": [
+      0.8916,
+      0.8916
+    ],
+    "FREEFINE_BASELINE/resize_2635/BGC": [
+      0.9669,
+      0.9669
+    ],
+    "FREEFINE_BASELINE/resize_2635/WRAP_E": [
+      0.049,
+      0.049
+    ],
+    "FREEFINE_BASELINE/resize_severe_759/SUBC": [
+      0.7991,
+      0.7991
+    ],
+    "FREEFINE_BASELINE/resize_severe_759/BGC": [
+      0.9651,
+      0.9651
+    ],
+    "FREEFINE_BASELINE/resize_severe_759/WRAP_E": [
+      0.0581,
+      0.0581
+    ],
+    "FREEFINE_BASELINE/resize_nonsevere_1876/SUBC": [
+      0.929,
+      0.929
+    ],
+    "FREEFINE_BASELINE/resize_nonsevere_1876/BGC": [
+      0.9676,
+      0.9676
+    ],
+    "FREEFINE_BASELINE/resize_nonsevere_1876/WRAP_E": [
+      0.0453,
+      0.0453
+    ],
+    "SGR_EPSREC/all_5677/SUBC": [
+      0.9144,
+      0.9144
+    ],
+    "SGR_EPSREC/all_5677/BGC": [
+      0.9671,
+      0.9671
+    ],
+    "SGR_EPSREC/all_5677/WRAP_E": [
+      0.0292,
+      0.0292
+    ],
+    "SGR_EPSREC/move_1439/SUBC": [
+      0.9665,
+      0.9665
+    ],
+    "SGR_EPSREC/move_1439/BGC": [
+      0.9672,
+      0.9672
+    ],
+    "SGR_EPSREC/move_1439/WRAP_E": [
+      0.0121,
+      0.0121
+    ],
+    "SGR_EPSREC/rotate_1603/SUBC": [
+      0.9008,
+      0.9008
+    ],
+    "SGR_EPSREC/rotate_1603/BGC": [
+      0.9673,
+      0.9673
+    ],
+    "SGR_EPSREC/rotate_1603/WRAP_E": [
+      0.0433,
+      0.0433
+    ],
+    "SGR_EPSREC/resize_2635/SUBC": [
+      0.8942,
+      0.8942
+    ],
+    "SGR_EPSREC/resize_2635/BGC": [
+      0.967,
+      0.967
+    ],
+    "SGR_EPSREC/resize_2635/WRAP_E": [
+      0.03,
+      0.03
+    ],
+    "SGR_EPSREC/resize_severe_759/SUBC": [
+      0.7995,
+      0.7995
+    ],
+    "SGR_EPSREC/resize_severe_759/BGC": [
+      0.9651,
+      0.9651
+    ],
+    "SGR_EPSREC/resize_severe_759/WRAP_E": [
+      0.0581,
+      0.0581
+    ],
+    "SGR_EPSREC/resize_nonsevere_1876/SUBC": [
+      0.9325,
+      0.9325
+    ],
+    "SGR_EPSREC/resize_nonsevere_1876/BGC": [
+      0.9677,
+      0.9677
+    ],
+    "SGR_EPSREC/resize_nonsevere_1876/WRAP_E": [
+      0.0187,
+      0.0187
+    ],
+    "SGR_MIDHF_EPSREC/resize_severe_759/SUBC": [
+      0.7995,
+      0.7995
+    ],
+    "SGR_MIDHF_EPSREC/resize_severe_759/BGC": [
+      0.9651,
+      0.9651
+    ],
+    "SGR_MIDHF_EPSREC/resize_severe_759/WRAP_E": [
+      0.0581,
+      0.0581
+    ]
+  },
+  "rotate_identity_max_abs_diff": {
+    "SUBC": 0.0,
+    "BGC": 0.0,
+    "WRAP_E": 0.0
+  },
+  "check4_failures": []
+}
